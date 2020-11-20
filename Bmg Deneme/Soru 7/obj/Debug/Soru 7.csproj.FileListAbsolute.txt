@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\bin\Debug\Soru 7.exe.config
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\bin\Debug\Soru 7.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\bin\Debug\Soru 7.pdb
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\obj\Debug\Soru 7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\obj\Debug\Soru 7.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 7\obj\Debug\Soru 7.pdb

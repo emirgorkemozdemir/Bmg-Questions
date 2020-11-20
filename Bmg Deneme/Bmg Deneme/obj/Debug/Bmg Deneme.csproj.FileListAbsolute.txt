@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\bin\Debug\Bmg Deneme.exe.config
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\bin\Debug\Bmg Deneme.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\bin\Debug\Bmg Deneme.pdb
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\obj\Debug\Bmg Deneme.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\obj\Debug\Bmg Deneme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\obj\Debug\Bmg Deneme.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Bmg Deneme\obj\Debug\Bmg Deneme.pdb

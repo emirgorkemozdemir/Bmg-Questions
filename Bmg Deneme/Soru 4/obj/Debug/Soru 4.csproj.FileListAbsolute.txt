@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\bin\Debug\Soru 4.exe.config
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\bin\Debug\Soru 4.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\bin\Debug\Soru 4.pdb
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\obj\Debug\Soru 4.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\obj\Debug\Soru 4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\obj\Debug\Soru 4.exe
+C:\Users\ACER\source\repos\Bmg Deneme\Soru 4\obj\Debug\Soru 4.pdb
